@@ -24,8 +24,13 @@ Featured Projects
 2. IPL Analytics
 3. Anime Feature Engineering
 
-## 🚀 Skills & Tools<br><br>- Python<br>- SQL<br><br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Machine Learning<br>- Statistical Analysis</p>
+## 🚀 Currently Learning
 
+Machine Learning
+SQL
+Statistics
+DSA
+Deep Learning
 ###
 
 <h2 align="left">I code with Python  and SQL</h2>
