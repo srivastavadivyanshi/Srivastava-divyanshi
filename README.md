@@ -23,6 +23,7 @@ Featured Projects
 1. Email Fraud Detection
 2. IPL Analytics
 3. Anime Feature Engineering
+4. Countries Data Analysis
 
 ## 🚀 Currently Learning
 
