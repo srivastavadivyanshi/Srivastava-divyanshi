@@ -28,29 +28,17 @@ Featured Projects
 
 ## 🛠️ Tech Stack
 
-Python
-
-SQL
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Matplotlib
-
-Seaborn
-
-Jupyter
-
-Git
-
-GitHub
-
-Streamlit
-
-
+🎓Python
+🎓SQL
+🎓Pandas
+🎓NumPy
+🎓Scikit-learn
+🎓Matplotlib
+🎓Seaborn
+🎓Jupyter
+🎓Git
+🎓GitHub
+🎓Streamlit
 
 
 ## 🚀 Currently Learning
