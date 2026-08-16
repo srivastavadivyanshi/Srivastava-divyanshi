@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">I am a Data Science student passionate about learning from data and building meaningful projects.  <br>I enjoy exploring Python, Machine Learning, Data Analysis, and Visualization to solve real-world problems.<br><br>## 🚀 Skills & Tools<br><br>- Python<br>- SQL<br><br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Machine Learning<br>- Statistical Analysis</p>
+<p align="left">🎓 B.Tech Data Science student
+🐍 Python | SQL | Pandas | NumPy | Scikit-learn
+📊 Data Analysis | EDA | Statistics | Machine Learning
+🤖 Interested in ML, predictive modeling and real-world data problems
+🚀 Currently building portfolio projects for Data Science internships.<br><br>## 🚀 Skills & Tools<br><br>- Python<br>- SQL<br><br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Machine Learning<br>- Statistical Analysis</p>
 
 ###
 
