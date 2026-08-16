@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I' m a data analayst</p>
+<p align="left">Data Science Undergraduate | Aspiring Data Scientist</p>
 
 ###
 
