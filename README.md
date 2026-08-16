@@ -17,7 +17,14 @@
 
 🤖 Interested in ML, predictive modeling and real-world data problems
 
-🚀 Currently building portfolio projects for Data Science internships.<br><br>## 🚀 Skills & Tools<br><br>- Python<br>- SQL<br><br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Machine Learning<br>- Statistical Analysis</p>
+🚀 Currently building portfolio projects for Data Science internships.<br><br>
+
+Featured Projects
+1. Email Fraud Detection
+2. IPL Analytics
+3. Anime Feature Engineering
+
+## 🚀 Skills & Tools<br><br>- Python<br>- SQL<br><br>- Data Cleaning<br>- Exploratory Data Analysis (EDA)<br>- Machine Learning<br>- Statistical Analysis</p>
 
 ###
 
