@@ -28,9 +28,13 @@ Featured Projects
 ## 🚀 Currently Learning
 
 Machine Learning
+
 SQL
+
 Statistics
+
 DSA
+
 Deep Learning
 ###
 
