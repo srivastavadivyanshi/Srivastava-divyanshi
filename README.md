@@ -25,6 +25,34 @@ Featured Projects
 3. Anime Feature Engineering
 4. Countries Data Analysis
 
+
+## 🛠️ Tech Stack
+
+Python
+
+SQL
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn
+
+Jupyter
+
+Git
+
+GitHub
+
+Streamlit
+
+
+
+
 ## 🚀 Currently Learning
 
 Machine Learning
