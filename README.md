@@ -11,11 +11,11 @@
 ###
 
 <p align="left">🎓 B.Tech Data Science student
-🐍 Python | SQL | Pandas | NumPy | Scikit-learn
+🐍 Python | SQL | Pandas | NumPy | Scikit-learn | Prompt Engineering |Matplotlib|NLP
 
   📊 Data Analysis | EDA | Statistics | Machine Learning
 
-🤖 Interested in ML, predictive modeling and real-world data problems
+🤖 Interested in ML,AI, predictive modeling and real-world data problems
 
 🚀 Currently building portfolio projects for Data Science internships.<br><br>
 
