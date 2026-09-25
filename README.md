@@ -41,7 +41,7 @@ Featured Projects
 🎓Streamlit
 
 
-## 🚀 Currently Learning
+## 🚀 Skills
 
 Machine Learning
 
@@ -52,6 +52,8 @@ Statistics
 DSA
 
 Deep Learning
+
+Prompt Engineering
 ###
 
 <h2 align="left">I code with Python  and SQL</h2>
