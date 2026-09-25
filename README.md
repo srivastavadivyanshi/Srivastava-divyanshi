@@ -15,7 +15,7 @@
 
   📊 Data Analysis | EDA | Statistics | Machine Learning
 
-🤖 Interested in ML,AI, predictive modeling and real-world data problems
+🤖 Interested in ML, AI,  predictive modeling and real-world data problems
 
 🚀 Currently building portfolio projects for Data Science internships.<br><br>
 
